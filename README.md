@@ -1,2 +1,19 @@
-# Space_Shootout_2.0
-&lt;p align="center">&lt;img src="image.PNG" alt="Can't load image" /> &lt;/p>  &lt;p align="center">&lt;h1>Space_Shootout-2.0&lt;/h1>&lt;/p>  &lt;p>Hi there! I am Md. Manzum Rahman. I am reading in class 7 at Faujdarhat Cadet College .&lt;/p>  &lt;p>Space Shoototut 2.0 is the first game that I have developed learning game development from Youtube. Space Shootout 2.0 is created with python. Pygame is the library used in it. It is basically a 2 dimensional Space Shooting Game .&lt;/p>  &lt;p>Happy gaming!🙂&lt;/p>  &lt;a href="https://mega.nz/file/nYkHGRaK#1r4Vx-pXB7TEtpI1SpDxihf1xoJS2_YmMd9-zT0G6b0">     &lt;p align="center">&lt;button style="background-color: #40ff00; color: white;">&lt;b>Download&lt;/b>&lt;/button>&lt;/p> &lt;/a>  &lt;a href="mailto:manzumrahman@gmail.com">     &lt;p align="center">&lt;button style="background-color: blue; color: white;">&lt;b>Mail Me&lt;/b>&lt;/button>&lt;/p> &lt;/a>
+<p align="center"><img src="image.PNG" alt="Can't load image" />
+</p>
+
+<p align="center"><h1>Space_Shootout-2.0</h1></p>
+
+<p>Hi there! I am Md. Manzum Rahman. I am reading in class 7 at Faujdarhat Cadet College .</p>
+
+<p>Space Shoototut 2.0 is the first game that I have developed learning game development from Youtube. Space Shootout 2.0 is created with python. Pygame is the library used in it. It is basically a 2 dimensional Space Shooting Game .</p>
+
+<p>Happy gaming!🙂</p>
+
+<a href="https://mega.nz/file/nYkHGRaK#1r4Vx-pXB7TEtpI1SpDxihf1xoJS2_YmMd9-zT0G6b0">
+    <p align="center"><button style="background-color: #40ff00; color: white;"><b>Download</b></button></p>
+</a>
+
+<a href="mailto:manzumrahman@gmail.com">
+    <p align="center"><button style="background-color: blue; color: white;"><b>Mail Me</b></button></p>
+</a>
+
