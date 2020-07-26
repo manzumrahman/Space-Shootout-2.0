@@ -1,8 +1,6 @@
+<p align="center"><h1>Space_Shootout-2.0</h1></p>
 <p align="center"><img src="image.PNG" alt="Can't load image" />
 </p>
-
-<p align="center"><h1>Space_Shootout-2.0</h1></p>
-
 <p>Hi there! I am Md. Manzum Rahman. I am reading in class 7 at Faujdarhat Cadet College .</p>
 
 <p>Space Shoototut 2.0 is the first game that I have developed learning game development from Youtube. Space Shootout 2.0 is created with python. Pygame is the library used in it. It is basically a 2 dimensional Space Shooting Game .</p>
