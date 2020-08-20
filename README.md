@@ -1,4 +1,4 @@
-<p align="center"><h1>Space_Shootout-2.0</h1></p>
+<p align="center"><h1>Space Shootout 2.0</h1></p>
 <p align="center"><img src="image.PNG" alt="Can't load image" />
 </p>
 <p>Hi there! I am Md. Manzum Rahman. I am reading in class 7 at Faujdarhat Cadet College .</p>
